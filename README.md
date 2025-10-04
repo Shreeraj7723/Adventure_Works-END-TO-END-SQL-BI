@@ -40,6 +40,16 @@ The goal is to provide actionable insights from raw data through a dynamic and v
      - Performance of Salespeople
      - Targets vs Actuals
    - Incorporated interactive features: slicers, filters, drill-throughs.
+  
+   ### Overview Page
+![Overview](Screenshots/Overview.png)
+
+### Sales Analysis
+![SalesAnalysis(Screenshots/Sales Analysis.png)
+
+### Targets vs Actual
+![TargetsVsActual](Screenshots/TargetsVsActual.png)
+
 
 ---
 
